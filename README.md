@@ -80,5 +80,24 @@ MovieApp is a Django-based application that leverages the TMDb API to provide mo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movieapp.git
+   git clone https://github.com/Elisha2024/MovieApp.git
    cd movieapp
+
+2. python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+3. Configure your environment variables:
+
+Create a .env file in the root directory with the following content:
+TMDB_API_KEY=your_tmdb_api_key
+DEBUG=True
+
+Add Redis credentials to your environment
+
+4. Run migrations:
+python manage.py migrate
+
+
+Start the development server:
+python manage.py runserver
