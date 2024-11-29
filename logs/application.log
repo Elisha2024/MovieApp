@@ -1,0 +1,1304 @@
+INFO 2024-11-27 15:02:54,002 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:03:47,429 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+INFO 2024-11-27 15:03:48,171 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+INFO 2024-11-27 15:03:48,191 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+INFO 2024-11-27 15:03:48,199 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 22092
+INFO 2024-11-27 15:03:48,203 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2024-11-27 15:03:48,204 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-11-27 15:03:48,206 basehttp "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2024-11-27 15:03:48,236 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+WARNING 2024-11-27 15:03:48,319 log Not Found: /favicon.ico
+WARNING 2024-11-27 15:03:48,321 basehttp "GET /favicon.ico HTTP/1.1" 404 2719
+INFO 2024-11-27 15:03:52,859 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-11-27 15:03:52,893 basehttp "GET /admin/ HTTP/1.1" 200 5861
+INFO 2024-11-27 15:03:52,932 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-11-27 15:03:52,956 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-11-27 15:03:52,957 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-11-27 15:03:56,215 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 11100
+INFO 2024-11-27 15:03:56,301 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2024-11-27 15:03:56,305 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-11-27 15:03:56,308 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-11-27 15:03:56,308 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-27 15:03:56,309 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+INFO 2024-11-27 15:03:56,325 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-11-27 15:03:56,328 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2024-11-27 15:03:56,332 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-11-27 15:03:56,334 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-11-27 15:03:56,372 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-11-27 15:03:56,377 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-11-27 15:03:56,393 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-11-27 15:03:56,430 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-11-27 15:03:56,443 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-11-27 15:03:56,444 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-11-27 15:03:56,450 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+WARNING 2024-11-27 15:04:13,871 log Method Not Allowed: /api/token/
+WARNING 2024-11-27 15:04:13,874 basehttp "GET /api/token/ HTTP/1.1" 405 7609
+WARNING 2024-11-27 15:04:14,765 log Method Not Allowed: /api/token/
+WARNING 2024-11-27 15:04:14,769 basehttp "GET /api/token/ HTTP/1.1" 405 7609
+INFO 2024-11-27 15:04:15,113 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-11-27 15:04:15,114 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-11-27 15:04:15,116 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-11-27 15:04:15,119 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-11-27 15:04:15,121 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-11-27 15:04:15,134 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-11-27 15:04:15,135 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-11-27 15:04:15,138 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-11-27 15:04:15,138 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-11-27 15:04:15,149 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-11-27 15:04:15,150 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-11-27 15:04:15,179 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-11-27 15:04:20,372 basehttp "POST /api/token/ HTTP/1.1" 200 8053
+INFO 2024-11-27 15:10:32,451 autoreload C:\Product House\movieapp\movieapp\movies\admin.py changed, reloading.
+INFO 2024-11-27 15:10:34,585 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:10:46,143 autoreload C:\Product House\movieapp\movieapp\movies\admin.py changed, reloading.
+INFO 2024-11-27 15:10:47,862 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:11:07,141 autoreload C:\Product House\movieapp\movieapp\movies\admin.py changed, reloading.
+INFO 2024-11-27 15:11:08,857 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:11:23,260 autoreload C:\Product House\movieapp\movieapp\movies\admin.py changed, reloading.
+INFO 2024-11-27 15:11:25,029 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:11:32,284 basehttp "POST /api/token/ HTTP/1.1" 200 8053
+INFO 2024-11-27 15:11:39,412 basehttp "POST /api/token/ HTTP/1.1" 200 8053
+INFO 2024-11-27 15:11:47,647 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 11777
+INFO 2024-11-27 15:11:47,695 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-27 15:11:55,522 basehttp "GET /admin/ HTTP/1.1" 200 6719
+INFO 2024-11-27 15:11:57,848 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 7874
+INFO 2024-11-27 15:11:57,904 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-27 15:12:00,476 basehttp "GET /admin/movies/movierating/add/ HTTP/1.1" 200 9260
+INFO 2024-11-27 15:12:00,530 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-27 15:12:00,801 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-11-27 15:12:00,806 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+INFO 2024-11-27 15:12:00,818 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-11-27 15:12:00,834 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+INFO 2024-11-27 15:12:22,919 autoreload C:\Product House\movieapp\movieapp\movies\admin.py changed, reloading.
+INFO 2024-11-27 15:12:24,712 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:12:29,885 autoreload C:\Product House\movieapp\movieapp\movies\admin.py changed, reloading.
+INFO 2024-11-27 15:12:31,667 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:14:33,856 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-27 15:14:36,645 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:14:40,775 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-27 15:14:42,422 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:14:58,125 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-27 15:15:00,251 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:15:04,148 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-27 15:15:05,786 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:15:17,053 basehttp "POST /api/token/ HTTP/1.1" 200 8053
+INFO 2024-11-27 15:15:19,449 basehttp "POST /api/token/ HTTP/1.1" 200 8053
+WARNING 2024-11-27 15:26:25,681 log Not Found: /api/movie/1/
+WARNING 2024-11-27 15:26:25,693 basehttp "GET /api/movie/1/ HTTP/1.1" 404 3410
+WARNING 2024-11-27 15:29:28,084 log Not Found: /api/movie/1/
+WARNING 2024-11-27 15:29:28,087 basehttp "GET /api/movie/1/ HTTP/1.1" 404 3410
+INFO 2024-11-27 15:30:24,417 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 15:30:26,954 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-27 15:31:03,199 log Not Found: /api/recommendations
+WARNING 2024-11-27 15:31:03,202 basehttp "GET /api/recommendations HTTP/1.1" 404 3431
+WARNING 2024-11-27 15:31:08,895 log Not Found: /api/recommendations/
+WARNING 2024-11-27 15:31:08,898 basehttp "GET /api/recommendations/ HTTP/1.1" 404 3434
+INFO 2024-11-27 15:31:38,726 autoreload C:\Product House\movieapp\movieapp\movieapp\urls.py changed, reloading.
+INFO 2024-11-27 15:31:40,472 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-27 15:31:45,849 log Internal Server Error: /api/recommendations/
+Traceback (most recent call last):
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 67, in get_queryset
+    assert self.queryset is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'RecommendationView' should either include a `queryset` attribute, or override the `get_queryset()` method.
+ERROR 2024-11-27 15:31:45,875 basehttp "GET /api/recommendations/ HTTP/1.1" 500 105911
+INFO 2024-11-27 15:39:16,980 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 15:39:19,081 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-27 15:39:27,313 log Internal Server Error: /api/recommendations/
+Traceback (most recent call last):
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 67, in get_queryset
+    assert self.queryset is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'RecommendationView' should either include a `queryset` attribute, or override the `get_queryset()` method.
+ERROR 2024-11-27 15:39:27,349 basehttp "GET /api/recommendations/ HTTP/1.1" 500 105911
+INFO 2024-11-27 15:41:45,884 basehttp "GET /api/ratings HTTP/1.1" 301 0
+WARNING 2024-11-27 15:41:45,937 log Unauthorized: /api/ratings/
+WARNING 2024-11-27 15:41:45,941 basehttp "GET /api/ratings/ HTTP/1.1" 401 5043
+INFO 2024-11-27 15:41:46,250 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,254 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,254 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,261 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,265 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,266 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,268 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,268 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,273 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,279 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,282 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-27 15:41:46,315 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-11-27 15:42:04,165 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 15:42:06,505 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-27 15:42:14,105 log Internal Server Error: /api/ratings/
+Traceback (most recent call last):
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Product House\movieapp\movieapp\movies\views.py", line 97, in get_queryset
+    return MovieRating.objects.filter(user=user)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: created_at, id, movie_id, rating
+ERROR 2024-11-27 15:42:14,138 basehttp "GET /api/ratings/ HTTP/1.1" 500 150143
+INFO 2024-11-27 15:49:50,046 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 15:49:52,409 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:49:56,488 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 15:49:58,243 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 15:50:02,679 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 15:50:04,536 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-27 15:50:48,270 log Internal Server Error: /api/recommendations/
+Traceback (most recent call last):
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 112, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 126, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'RecommendationView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+ERROR 2024-11-27 15:50:48,296 basehttp "GET /api/recommendations/ HTTP/1.1" 500 110614
+INFO 2024-11-27 16:09:21,128 autoreload C:\Product House\movieapp\movieapp\movies\serializers.py changed, reloading.
+INFO 2024-11-27 16:09:23,455 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 16:09:46,893 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 16:09:49,792 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 16:09:56,290 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 16:09:58,257 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 16:10:05,771 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 16:10:07,413 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 16:10:23,790 basehttp "GET /api/recommendations/ HTTP/1.1" 200 9305
+INFO 2024-11-27 16:10:23,871 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,872 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,874 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,877 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,880 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,882 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,884 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,888 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,894 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,896 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,901 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:23,949 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-11-27 16:10:59,353 autoreload C:\Product House\movieapp\movieapp\movies\serializers.py changed, reloading.
+INFO 2024-11-27 16:11:01,357 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 16:11:09,569 basehttp "GET /api/recommendations/ HTTP/1.1" 200 9031
+INFO 2024-11-27 16:12:17,332 views Fetching movie recommendations for preferences: {'genres': ['Action', 'Comedy'], 'language': 'en', 'release_year': 2023}
+INFO 2024-11-27 16:12:17,332 services Fetching movie recommendations for genres: ['Action', 'Comedy'], language: en, release_year: 2023
+DEBUG 2024-11-27 16:12:17,342 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-27 16:12:17,946 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=Action%2CComedy&primary_release_year=2023 HTTP/11" 200 None
+INFO 2024-11-27 16:12:17,950 services Successfully fetched 0 movie recommendations.
+INFO 2024-11-27 16:12:18,147 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['Action', 'Comedy'], 'language': 'en', 'release_year': 2023}
+INFO 2024-11-27 16:12:18,157 basehttp "POST /api/recommendations/ HTTP/1.1" 200 9152
+ERROR 2024-11-27 16:13:20,877 log Internal Server Error: /api/ratings/
+Traceback (most recent call last):
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Product House\movieapp\movieapp\movies\views.py", line 101, in get_queryset
+    return MovieRating.objects.filter(user=user)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: created_at, id, movie_id, rating
+ERROR 2024-11-27 16:13:20,921 basehttp "GET /api/ratings/ HTTP/1.1" 500 150283
+INFO 2024-11-27 16:14:02,492 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-27 16:14:05,089 autoreload Watching for file changes with StatReloader
+INFO 2024-11-27 16:14:47,088 basehttp "GET /api/movie/1 HTTP/1.1" 301 0
+INFO 2024-11-27 16:14:48,205 views Fetching details for movie ID: 1
+INFO 2024-11-27 16:14:48,206 services Fetching details for movie ID: 1
+DEBUG 2024-11-27 16:14:48,214 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-27 16:14:48,832 connectionpool https://api.themoviedb.org:443 "GET /3/movie/1?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-27 16:14:48,907 log Internal Server Error: /api/movie/1/
+ERROR 2024-11-27 16:14:48,910 basehttp "GET /api/movie/1/ HTTP/1.1" 500 5435
+INFO 2024-11-27 16:15:13,331 basehttp "GET /api/movie/3 HTTP/1.1" 301 0
+INFO 2024-11-27 16:15:13,553 views Fetching details for movie ID: 3
+INFO 2024-11-27 16:15:13,554 services Fetching details for movie ID: 3
+DEBUG 2024-11-27 16:15:13,557 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-27 16:15:14,013 connectionpool https://api.themoviedb.org:443 "GET /3/movie/3?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-27 16:15:14,015 services Successfully fetched details for movie ID: 3.
+INFO 2024-11-27 16:15:14,215 views Successfully fetched and cached details for movie ID: 3
+INFO 2024-11-27 16:15:14,241 basehttp "GET /api/movie/3/ HTTP/1.1" 200 7941
+INFO 2024-11-27 16:22:26,436 views Fetching movie recommendations for preferences: {'genres': ['Comedy', 'Drama', 'Romance'], 'release_year': 1986, 'language': 'fi'}
+INFO 2024-11-27 16:22:26,438 services Fetching movie recommendations for genres: ['Comedy', 'Drama', 'Romance'], language: fi, release_year: 1986
+DEBUG 2024-11-27 16:22:26,442 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-27 16:22:27,159 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=fi&with_genres=Comedy%2CDrama%2CRomance&primary_release_year=1986 HTTP/11" 200 None
+INFO 2024-11-27 16:22:27,160 services Successfully fetched 0 movie recommendations.
+INFO 2024-11-27 16:22:27,499 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['Comedy', 'Drama', 'Romance'], 'release_year': 1986, 'language': 'fi'}
+INFO 2024-11-27 16:22:27,555 basehttp "POST /api/recommendations/ HTTP/1.1" 200 9152
+INFO 2024-11-27 16:24:24,919 views Cache hit for recommendations with preferences: {'genres': ['Comedy', 'Drama', 'Romance'], 'release_year': 1986, 'language': 'fi'}
+INFO 2024-11-27 16:24:24,927 basehttp "POST /api/recommendations/ HTTP/1.1" 200 9152
+INFO 2024-11-27 16:27:56,877 views Fetching movie recommendations for preferences: {'genres': ['Comedy', 'Drama', 'Romance'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-27 16:27:56,878 services Fetching movie recommendations for genres: ['Comedy', 'Drama', 'Romance'], language: en, release_year: 1980
+DEBUG 2024-11-27 16:27:56,881 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-27 16:27:58,427 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=Comedy%2CDrama%2CRomance&primary_release_year=1980 HTTP/11" 200 None
+INFO 2024-11-27 16:27:58,428 services Successfully fetched 0 movie recommendations.
+INFO 2024-11-27 16:27:58,624 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['Comedy', 'Drama', 'Romance'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-27 16:27:58,634 basehttp "POST /api/recommendations/ HTTP/1.1" 200 9152
+INFO 2024-11-28 08:33:26,609 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 08:48:33,373 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 08:48:35,438 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 08:48:39,107 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 08:48:40,687 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 08:48:58,126 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 08:48:59,803 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 08:52:55,851 views Fetching details for movie ID: 1
+INFO 2024-11-28 08:52:55,852 services Fetching details for movie ID: 1
+DEBUG 2024-11-28 08:52:55,867 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 08:52:56,494 connectionpool https://api.themoviedb.org:443 "GET /movie/1?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 08:52:56,570 log Internal Server Error: /api/movie/1/
+ERROR 2024-11-28 08:52:56,573 basehttp "GET /api/movie/1/ HTTP/1.1" 500 5431
+INFO 2024-11-28 08:52:56,668 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,670 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,678 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,682 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,700 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,701 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,705 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,710 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,714 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,716 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,723 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-28 08:52:56,768 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2024-11-28 08:52:56,894 log Not Found: /favicon.ico
+WARNING 2024-11-28 08:52:56,897 basehttp "GET /favicon.ico HTTP/1.1" 404 3395
+INFO 2024-11-28 08:53:14,490 views Fetching details for movie ID: 3
+INFO 2024-11-28 08:53:14,491 services Fetching details for movie ID: 3
+DEBUG 2024-11-28 08:53:14,493 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 08:53:15,105 connectionpool https://api.themoviedb.org:443 "GET /movie/3?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 08:53:15,118 log Internal Server Error: /api/movie/3/
+ERROR 2024-11-28 08:53:15,121 basehttp "GET /api/movie/3/ HTTP/1.1" 500 5431
+INFO 2024-11-28 08:53:37,543 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 08:53:39,306 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 08:53:44,178 views Fetching details for movie ID: 3
+INFO 2024-11-28 08:53:44,179 services Fetching details for movie ID: 3
+DEBUG 2024-11-28 08:53:44,185 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 08:53:44,597 connectionpool https://api.themoviedb.org:443 "GET /3/movie/3?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 08:53:44,612 services Successfully fetched details for movie ID: 3.
+INFO 2024-11-28 08:53:44,853 views Successfully fetched and cached details for movie ID: 3
+INFO 2024-11-28 08:53:44,903 basehttp "GET /api/movie/3/ HTTP/1.1" 200 7941
+INFO 2024-11-28 08:56:15,656 basehttp "GET /api/recommendations/ HTTP/1.1" 200 9031
+INFO 2024-11-28 08:56:53,213 views Fetching movie recommendations for preferences: {'genres': ['Action'], 'release_year': 1998, 'language': 'en'}
+INFO 2024-11-28 08:56:53,213 services Fetching movie recommendations for genres: ['Action'], language: en, release_year: 1998
+DEBUG 2024-11-28 08:56:53,216 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 08:56:53,829 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=Action&primary_release_year=1998 HTTP/11" 200 None
+INFO 2024-11-28 08:56:53,831 services Successfully fetched 0 movie recommendations.
+INFO 2024-11-28 08:56:54,047 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['Action'], 'release_year': 1998, 'language': 'en'}
+INFO 2024-11-28 08:56:54,056 basehttp "POST /api/recommendations/ HTTP/1.1" 200 9152
+INFO 2024-11-28 09:01:02,557 basehttp "GET /api/movie/4 HTTP/1.1" 301 0
+INFO 2024-11-28 09:01:02,871 views Fetching details for movie ID: 4
+INFO 2024-11-28 09:01:02,872 services Fetching details for movie ID: 4
+DEBUG 2024-11-28 09:01:02,874 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:01:03,894 connectionpool https://api.themoviedb.org:443 "GET /3/movie/4?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 09:01:03,936 log Internal Server Error: /api/movie/4/
+ERROR 2024-11-28 09:01:03,940 basehttp "GET /api/movie/4/ HTTP/1.1" 500 5435
+INFO 2024-11-28 09:01:09,779 basehttp "GET /api/movie/5 HTTP/1.1" 301 0
+INFO 2024-11-28 09:01:10,243 views Fetching details for movie ID: 5
+INFO 2024-11-28 09:01:10,244 services Fetching details for movie ID: 5
+DEBUG 2024-11-28 09:01:10,246 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:01:10,653 connectionpool https://api.themoviedb.org:443 "GET /3/movie/5?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 09:01:10,655 services Successfully fetched details for movie ID: 5.
+INFO 2024-11-28 09:01:11,063 views Successfully fetched and cached details for movie ID: 5
+INFO 2024-11-28 09:01:11,070 basehttp "GET /api/movie/5/ HTTP/1.1" 200 7732
+INFO 2024-11-28 09:02:45,523 basehttp "GET /api/movie/6 HTTP/1.1" 301 0
+INFO 2024-11-28 09:02:45,732 views Fetching details for movie ID: 6
+INFO 2024-11-28 09:02:45,733 services Fetching details for movie ID: 6
+DEBUG 2024-11-28 09:02:45,735 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:02:46,298 connectionpool https://api.themoviedb.org:443 "GET /3/movie/6?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 09:02:46,299 services Successfully fetched details for movie ID: 6.
+INFO 2024-11-28 09:02:46,707 views Successfully fetched and cached details for movie ID: 6
+INFO 2024-11-28 09:02:46,714 basehttp "GET /api/movie/6/ HTTP/1.1" 200 7876
+INFO 2024-11-28 09:04:52,459 views Fetching movie recommendations for preferences: {'genres': ['Action', 'Crime', 'Thriller'], 'release_year': 1993, 'language': 'en'}
+INFO 2024-11-28 09:04:52,460 services Fetching movie recommendations for genres: ['Action', 'Crime', 'Thriller'], language: en, release_year: 1993
+DEBUG 2024-11-28 09:04:52,463 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:04:53,076 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=Action%2CCrime%2CThriller&primary_release_year=1993 HTTP/11" 200 None
+INFO 2024-11-28 09:04:53,078 services Successfully fetched 0 movie recommendations.
+INFO 2024-11-28 09:04:53,276 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['Action', 'Crime', 'Thriller'], 'release_year': 1993, 'language': 'en'}
+INFO 2024-11-28 09:04:53,285 basehttp "POST /api/recommendations/ HTTP/1.1" 200 9152
+INFO 2024-11-28 09:05:04,570 basehttp "GET /api/movie/7 HTTP/1.1" 301 0
+INFO 2024-11-28 09:05:04,953 views Fetching details for movie ID: 7
+INFO 2024-11-28 09:05:04,954 services Fetching details for movie ID: 7
+DEBUG 2024-11-28 09:05:04,956 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:05:05,568 connectionpool https://api.themoviedb.org:443 "GET /3/movie/7?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 09:05:05,583 log Internal Server Error: /api/movie/7/
+ERROR 2024-11-28 09:05:05,587 basehttp "GET /api/movie/7/ HTTP/1.1" 500 5435
+INFO 2024-11-28 09:05:16,256 basehttp "GET /api/movie/8 HTTP/1.1" 301 0
+INFO 2024-11-28 09:05:16,510 views Fetching details for movie ID: 8
+INFO 2024-11-28 09:05:16,511 services Fetching details for movie ID: 8
+DEBUG 2024-11-28 09:05:16,513 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:05:17,037 connectionpool https://api.themoviedb.org:443 "GET /3/movie/8?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 09:05:17,038 services Successfully fetched details for movie ID: 8.
+INFO 2024-11-28 09:05:17,445 views Successfully fetched and cached details for movie ID: 8
+INFO 2024-11-28 09:05:17,454 basehttp "GET /api/movie/8/ HTTP/1.1" 200 8698
+INFO 2024-11-28 09:16:08,500 views Fetching movie recommendations for preferences: {'genres': ['35', '18', '10749'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 09:16:08,501 services Fetching movie recommendations for genres: ['35', '18', '10749'], language: en, release_year: 1980
+DEBUG 2024-11-28 09:16:08,504 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:16:09,181 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=35%2C18%2C10749&primary_release_year=1980 HTTP/11" 200 None
+INFO 2024-11-28 09:16:09,183 services Successfully fetched 20 movie recommendations.
+INFO 2024-11-28 09:16:10,312 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['35', '18', '10749'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 09:16:10,339 basehttp "POST /api/recommendations/ HTTP/1.1" 200 31577
+INFO 2024-11-28 09:29:23,332 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 09:29:25,312 autoreload Watching for file changes with StatReloader
+DEBUG 2024-11-28 09:32:03,222 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:40:08,628 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 09:40:09,135 connectionpool https://api.themoviedb.org:443 "GET /3/genre/movie/list?api_key=a62c63177d84044d2e69105c87a41bca&language=en HTTP/11" 200 None
+INFO 2024-11-28 09:41:05,584 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 09:41:21,643 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-11-28 09:41:21,724 basehttp "GET /admin/ HTTP/1.1" 200 7300
+INFO 2024-11-28 09:41:21,930 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:21,931 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:21,933 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:21,936 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:21,938 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:21,940 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:21,965 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:21,979 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:21,980 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,701 basehttp "GET /admin/movies/genre/ HTTP/1.1" 200 14261
+INFO 2024-11-28 09:41:25,741 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,749 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,750 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,751 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,758 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,760 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,762 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-28 09:41:25,762 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,763 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,764 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,812 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:25,837 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:36,433 basehttp "GET /admin/movies/genre/19/change/ HTTP/1.1" 200 9864
+INFO 2024-11-28 09:41:36,464 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:36,468 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:36,473 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-28 09:41:36,480 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:36,489 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-11-28 09:41:45,037 basehttp "POST /admin/movies/genre/19/change/ HTTP/1.1" 302 0
+INFO 2024-11-28 09:41:45,079 basehttp "GET /admin/movies/genre/ HTTP/1.1" 200 14461
+INFO 2024-11-28 09:41:45,121 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-28 09:41:45,151 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2024-11-28 11:34:34,333 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 11:34:44,587 basehttp "GET /admin/movies/genre/ HTTP/1.1" 200 14610
+INFO 2024-11-28 11:34:44,637 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 11:34:47,538 basehttp "GET /admin/movies/genre/5/change/ HTTP/1.1" 200 11340
+INFO 2024-11-28 11:34:47,563 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 11:34:49,782 basehttp "POST /admin/movies/genre/5/change/ HTTP/1.1" 302 0
+INFO 2024-11-28 11:34:49,804 basehttp "GET /admin/movies/genre/ HTTP/1.1" 200 14807
+INFO 2024-11-28 11:34:49,825 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 11:34:54,092 basehttp "POST /admin/logout/ HTTP/1.1" 200 3576
+INFO 2024-11-28 11:34:57,371 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-11-28 11:34:57,386 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+INFO 2024-11-28 11:34:57,403 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2024-11-28 11:34:59,555 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-11-28 11:34:59,570 basehttp "GET /admin/ HTTP/1.1" 200 9985
+INFO 2024-11-28 11:35:22,077 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 9777
+INFO 2024-11-28 11:35:22,096 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 11:35:25,298 basehttp "GET /admin/movies/ HTTP/1.1" 200 5348
+INFO 2024-11-28 11:35:26,561 basehttp "GET /admin/movies/genre/ HTTP/1.1" 200 14610
+INFO 2024-11-28 11:35:26,578 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 11:35:29,872 basehttp "GET /admin/movies/ HTTP/1.1" 200 5348
+INFO 2024-11-28 11:42:14,630 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 11:42:16,123 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 11:43:01,311 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 11:43:02,636 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-28 11:51:11,113 signal Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x000001CC96185FD0>> raised: ModuleNotFoundError("No module named 'movies.celery'")
+Traceback (most recent call last):
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\celery\fixups\django.py", line 140, in validate_models
+    run_checks()
+    ~~~~~~~~~~^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\checks\urls.py", line 24, in check_resolver
+    return check_method()
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 494, in check
+    for pattern in self.url_patterns:
+                   ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Product House\movieapp\movieapp\movieapp\urls.py", line 26, in <module>
+    path('', include('movies.urls')),
+             ~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\urls\conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Product House\movieapp\movieapp\movies\urls.py", line 3, in <module>
+    from .views import RecommendationView, MovieDetailView, RatingView
+  File "C:\Product House\movieapp\movieapp\movies\views.py", line 10, in <module>
+    from .services import fetch_movie_recommendations_task, fetch_movie_details_task  # Import Celery tasks
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Product House\movieapp\movieapp\movies\services.py", line 4, in <module>
+    from .celery import app  # Import the Celery app for background tasks
+    ^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'movies.celery'
+INFO 2024-11-28 12:11:05,207 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:11:14,757 basehttp "GET /api/recommendations/ HTTP/1.1" 200 9031
+INFO 2024-11-28 12:11:14,805 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,806 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,809 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,812 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,815 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,816 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,826 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,828 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,831 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,834 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,834 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:14,847 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-11-28 12:11:23,899 views Fetching details for movie ID: 8
+INFO 2024-11-28 12:11:23,900 services Fetching details for movie ID: 8
+DEBUG 2024-11-28 12:11:23,904 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 12:11:24,264 connectionpool https://api.themoviedb.org:443 "GET /3/movie/8?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 12:11:24,266 services Successfully fetched details for movie ID: 8.
+INFO 2024-11-28 12:11:24,463 views Successfully fetched and cached details for movie ID: 8
+INFO 2024-11-28 12:11:24,469 basehttp "GET /api/movie/8/ HTTP/1.1" 200 8698
+INFO 2024-11-28 12:11:27,013 views Cache hit for movie details with ID: 8
+INFO 2024-11-28 12:11:27,018 basehttp "GET /api/movie/8/ HTTP/1.1" 200 8698
+ERROR 2024-11-28 12:15:55,759 log Internal Server Error: /api/ratings/
+Traceback (most recent call last):
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Product House\movieapp\movieapp\movies\views.py", line 101, in get_queryset
+    return MovieRating.objects.filter(user=user)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1498, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1529, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<6 lines>...
+        summarize=summarize,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1379, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1189, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1677, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: created_at, id, movie_id, rating
+ERROR 2024-11-28 12:15:55,860 basehttp "GET /api/ratings/ HTTP/1.1" 500 153258
+INFO 2024-11-28 12:18:31,625 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 12:18:33,699 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:18:37,809 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 12:18:38,905 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:18:54,361 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 12:18:56,813 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:19:02,441 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 12:19:03,509 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:19:07,949 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 12:19:08,971 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:19:11,508 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 12:19:12,679 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:20:05,720 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 12:20:07,164 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:24:53,850 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-28 12:24:58,719 log Internal Server Error: /api/ratings/
+Traceback (most recent call last):
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    return int(value)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Product House\movieapp\movieapp\movies\views.py", line 101, in get_queryset
+    return MovieRating.objects.filter(user=user)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1498, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1529, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<6 lines>...
+        summarize=summarize,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1444, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1271, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\__init__.py", line 2057, in get_prep_value
+    raise e.__class__(
+        "Field '%s' expected a number but got %r." % (self.name, value),
+    ) from e
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001FB99155400>.
+ERROR 2024-11-28 12:24:58,743 basehttp "GET /api/ratings/ HTTP/1.1" 500 171988
+INFO 2024-11-28 12:27:54,120 autoreload C:\Product House\movieapp\movieapp\movies\models.py changed, reloading.
+INFO 2024-11-28 12:27:55,525 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-28 12:28:03,480 log Internal Server Error: /api/ratings/
+Traceback (most recent call last):
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    return int(value)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Product House\movieapp\movieapp\movies\views.py", line 101, in get_queryset
+    return MovieRating.objects.filter(user=user)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1498, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1529, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<6 lines>...
+        summarize=summarize,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1444, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1271, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\__init__.py", line 2057, in get_prep_value
+    raise e.__class__(
+        "Field '%s' expected a number but got %r." % (self.name, value),
+    ) from e
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001544F6ED2B0>.
+ERROR 2024-11-28 12:28:03,511 basehttp "GET /api/ratings/ HTTP/1.1" 500 171988
+INFO 2024-11-28 12:28:38,654 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-28 12:28:43,131 log Internal Server Error: /api/ratings/
+Traceback (most recent call last):
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    return int(value)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Product House\movieapp\movieapp\movies\views.py", line 101, in get_queryset
+    return MovieRating.objects.filter(user=user)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1498, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1529, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<6 lines>...
+        summarize=summarize,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1444, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 1271, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\ELISHA.MATANGA\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\__init__.py", line 2057, in get_prep_value
+    raise e.__class__(
+        "Field '%s' expected a number but got %r." % (self.name, value),
+    ) from e
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001CEDE705400>.
+ERROR 2024-11-28 12:28:43,156 basehttp "GET /api/ratings/ HTTP/1.1" 500 171988
+INFO 2024-11-28 12:28:59,596 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 9777
+INFO 2024-11-28 12:28:59,630 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,633 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,634 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,634 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,636 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,641 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,641 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,644 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 12:28:59,645 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,646 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,650 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,650 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,651 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,653 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,685 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,687 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,699 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,709 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2024-11-28 12:28:59,709 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2024-11-28 12:29:03,226 basehttp "GET /admin/movies/ HTTP/1.1" 200 5348
+INFO 2024-11-28 12:29:03,244 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:29:03,254 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-11-28 12:29:06,582 basehttp "GET /admin/movies/movierating/add/ HTTP/1.1" 200 12709
+INFO 2024-11-28 12:29:06,599 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:29:06,604 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2024-11-28 12:29:06,604 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:29:06,605 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 12:29:06,614 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-11-28 12:29:06,615 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-11-28 12:32:04,294 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 12:32:05,738 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:32:08,390 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 12:32:09,708 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-28 12:32:17,818 log Unauthorized: /api/ratings/
+WARNING 2024-11-28 12:32:17,819 basehttp "GET /api/ratings/ HTTP/1.1" 401 5043
+INFO 2024-11-28 12:33:00,290 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 12:33:01,767 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:33:24,456 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 12:33:25,817 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:33:30,533 basehttp "GET /api/ratings/ HTTP/1.1" 200 9105
+WARNING 2024-11-28 12:33:54,792 log Forbidden: /api/ratings/
+WARNING 2024-11-28 12:33:54,794 basehttp "POST /api/ratings/ HTTP/1.1" 403 5158
+INFO 2024-11-28 12:34:23,855 basehttp "GET /api/ratings/ HTTP/1.1" 200 9105
+WARNING 2024-11-28 12:34:51,067 log Method Not Allowed: /api/token/
+WARNING 2024-11-28 12:34:51,069 basehttp "GET /api/token/ HTTP/1.1" 405 7609
+INFO 2024-11-28 12:34:54,321 basehttp "POST /api/token/ HTTP/1.1" 200 8053
+INFO 2024-11-28 12:37:03,959 basehttp "GET /api/movie/3 HTTP/1.1" 301 0
+INFO 2024-11-28 12:37:05,065 views Fetching details for movie ID: 3
+INFO 2024-11-28 12:37:05,066 services Fetching details for movie ID: 3
+DEBUG 2024-11-28 12:37:05,072 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 12:37:05,534 connectionpool https://api.themoviedb.org:443 "GET /3/movie/3?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 12:37:05,536 services Successfully fetched details for movie ID: 3.
+INFO 2024-11-28 12:37:05,733 views Successfully fetched and cached details for movie ID: 3
+INFO 2024-11-28 12:37:05,735 basehttp "GET /api/movie/3/ HTTP/1.1" 200 1306
+WARNING 2024-11-28 12:43:03,306 log Forbidden: /api/ratings/
+WARNING 2024-11-28 12:43:03,307 basehttp "POST /api/ratings/ HTTP/1.1" 403 54
+WARNING 2024-11-28 12:45:51,144 log Bad Request: /api/ratings/
+WARNING 2024-11-28 12:45:51,145 basehttp "POST /api/ratings/ HTTP/1.1" 400 77
+INFO 2024-11-28 12:46:44,583 views Saved rating: {'id': 1, 'movie_id': 3, 'rating': 1.0, 'created_at': '2024-11-28T09:46:44.574839Z', 'user': 1}
+INFO 2024-11-28 12:46:44,583 views Successfully created rating: {'id': 1, 'movie_id': 3, 'rating': 1.0, 'created_at': '2024-11-28T09:46:44.574839Z', 'user': 1}
+INFO 2024-11-28 12:46:44,585 basehttp "POST /api/ratings/ HTTP/1.1" 201 86
+WARNING 2024-11-28 12:47:19,379 log Bad Request: /api/ratings/
+WARNING 2024-11-28 12:47:19,380 basehttp "POST /api/ratings/ HTTP/1.1" 400 54
+INFO 2024-11-28 12:47:29,622 views Saved rating: {'id': 2, 'movie_id': 3, 'rating': 1.0, 'created_at': '2024-11-28T09:47:29.603244Z', 'user': 1}
+INFO 2024-11-28 12:47:29,622 views Successfully created rating: {'id': 2, 'movie_id': 3, 'rating': 1.0, 'created_at': '2024-11-28T09:47:29.603244Z', 'user': 1}
+INFO 2024-11-28 12:47:29,624 basehttp "POST /api/ratings/ HTTP/1.1" 201 86
+INFO 2024-11-28 12:47:46,299 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 11216
+INFO 2024-11-28 12:47:46,324 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 12:47:50,097 basehttp "GET /admin/movies/movierating/2/change/ HTTP/1.1" 200 13031
+INFO 2024-11-28 12:47:50,119 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 12:47:58,035 basehttp "POST /admin/movies/movierating/2/change/ HTTP/1.1" 302 0
+INFO 2024-11-28 12:47:58,058 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 11459
+INFO 2024-11-28 12:47:58,084 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 12:47:58,107 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2024-11-28 12:47:59,908 basehttp "GET /admin/movies/movierating/1/change/ HTTP/1.1" 200 13031
+INFO 2024-11-28 12:47:59,928 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 12:48:01,260 basehttp "POST /admin/movies/movierating/1/change/ HTTP/1.1" 302 0
+INFO 2024-11-28 12:48:01,283 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 11459
+INFO 2024-11-28 12:48:01,310 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 12:48:23,655 basehttp "GET /api/movie/3 HTTP/1.1" 301 0
+INFO 2024-11-28 12:48:23,855 views Fetching details for movie ID: 3
+INFO 2024-11-28 12:48:23,855 services Fetching details for movie ID: 3
+DEBUG 2024-11-28 12:48:23,857 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 12:48:24,090 connectionpool https://api.themoviedb.org:443 "GET /3/movie/3?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 12:48:24,091 services Successfully fetched details for movie ID: 3.
+INFO 2024-11-28 12:48:24,288 views Successfully fetched and cached details for movie ID: 3
+INFO 2024-11-28 12:48:24,290 basehttp "GET /api/movie/3/ HTTP/1.1" 200 1306
+INFO 2024-11-28 12:48:44,292 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 12:48:46,169 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:49:06,556 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 12:49:07,945 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:49:10,630 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 12:49:12,085 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:49:18,374 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 12:49:19,853 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 12:49:28,305 basehttp "GET /api/movie/3 HTTP/1.1" 301 0
+INFO 2024-11-28 12:49:30,684 views Cache hit for movie details with ID: 3
+INFO 2024-11-28 12:49:30,687 basehttp "GET /api/movie/3/ HTTP/1.1" 200 1306
+INFO 2024-11-28 12:49:41,245 basehttp "GET /api/movie/1 HTTP/1.1" 301 0
+INFO 2024-11-28 12:49:41,447 views Fetching details for movie ID: 1
+INFO 2024-11-28 12:49:41,447 services Fetching details for movie ID: 1
+DEBUG 2024-11-28 12:49:41,451 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 12:49:42,066 connectionpool https://api.themoviedb.org:443 "GET /3/movie/1?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 12:49:42,102 log Internal Server Error: /api/movie/1/
+ERROR 2024-11-28 12:49:42,104 basehttp "GET /api/movie/1/ HTTP/1.1" 500 126
+INFO 2024-11-28 13:09:39,740 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 13:09:41,599 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 13:11:51,674 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 13:11:53,189 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 13:12:12,309 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 13:12:13,717 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 13:12:27,031 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 13:12:28,444 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 13:13:15,913 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 13:13:17,374 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 13:17:18,841 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 13:17:20,623 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 13:18:43,338 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 13:18:45,508 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:23:58,817 views Saved rating: {'id': 3, 'movie_id': 3, 'rating': 1.0, 'created_at': '2024-11-28T11:23:58.808063Z', 'user': 1}
+INFO 2024-11-28 14:23:58,822 views Successfully created rating: {'id': 3, 'movie_id': 3, 'rating': 1.0, 'created_at': '2024-11-28T11:23:58.808063Z', 'user': 1}
+INFO 2024-11-28 14:23:58,829 basehttp "POST /api/ratings/ HTTP/1.1" 201 86
+INFO 2024-11-28 14:38:01,775 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 14:38:03,919 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:38:49,037 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 14:38:50,504 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:39:15,675 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 14:39:17,089 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:39:19,816 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 14:39:21,264 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:39:29,775 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 14:39:31,190 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:40:06,866 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 14:40:08,275 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:40:10,955 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 14:40:12,297 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:40:17,340 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 14:40:18,727 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:42:04,461 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 14:42:05,913 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:43:52,131 autoreload C:\Product House\movieapp\movieapp\movies\services.py changed, reloading.
+INFO 2024-11-28 14:43:54,380 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 14:44:07,582 basehttp "GET /api/movie/1 HTTP/1.1" 301 0
+INFO 2024-11-28 14:44:10,211 views Fetching details for movie ID: 1
+INFO 2024-11-28 14:44:10,211 services Fetching details for movie ID: 1
+DEBUG 2024-11-28 14:44:10,216 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 14:44:10,586 connectionpool https://api.themoviedb.org:443 "GET /3/movie/1?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 14:44:10,598 log Internal Server Error: /api/movie/1/
+ERROR 2024-11-28 14:44:10,600 basehttp "GET /api/movie/1/ HTTP/1.1" 500 66
+INFO 2024-11-28 14:44:18,703 basehttp "GET /api/movie/1 HTTP/1.1" 301 0
+INFO 2024-11-28 14:44:18,902 views Fetching details for movie ID: 1
+INFO 2024-11-28 14:44:18,903 services Fetching details for movie ID: 1
+DEBUG 2024-11-28 14:44:18,904 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 14:44:18,981 connectionpool https://api.themoviedb.org:443 "GET /3/movie/1?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 14:44:18,988 log Internal Server Error: /api/movie/1/
+ERROR 2024-11-28 14:44:18,990 basehttp "GET /api/movie/1/ HTTP/1.1" 500 66
+INFO 2024-11-28 14:45:50,318 basehttp "GET /api/movie/2 HTTP/1.1" 301 0
+INFO 2024-11-28 14:45:50,519 views Fetching details for movie ID: 2
+INFO 2024-11-28 14:45:50,519 services Fetching details for movie ID: 2
+DEBUG 2024-11-28 14:45:50,521 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 14:45:50,928 connectionpool https://api.themoviedb.org:443 "GET /3/movie/2?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 14:45:50,929 services Successfully fetched details for movie ID: 2.
+INFO 2024-11-28 14:45:51,123 views Successfully fetched and cached details for movie ID: 2
+INFO 2024-11-28 14:45:51,125 basehttp "GET /api/movie/2/ HTTP/1.1" 200 1101
+WARNING 2024-11-28 14:48:30,027 log Unauthorized: /api/recommendations/
+WARNING 2024-11-28 14:48:30,029 basehttp "GET /api/recommendations/ HTTP/1.1" 401 5131
+WARNING 2024-11-28 14:48:36,382 log Unauthorized: /api/recommendations/
+WARNING 2024-11-28 14:48:36,384 basehttp "GET /api/recommendations/ HTTP/1.1" 401 5131
+INFO 2024-11-28 14:48:36,414 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,414 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,416 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,418 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,421 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,421 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,425 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,426 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,428 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,429 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-11-28 14:48:36,430 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-28 14:50:38,540 basehttp "GET /api/recommendations/ HTTP/1.1" 200 2
+INFO 2024-11-28 14:53:41,072 basehttp "GET /api/recommendations/ HTTP/1.1" 200 2
+INFO 2024-11-28 14:53:56,746 basehttp "GET /api/movie/2 HTTP/1.1" 301 0
+INFO 2024-11-28 14:53:56,945 views Cache hit for movie details with ID: 2
+INFO 2024-11-28 14:53:56,947 basehttp "GET /api/movie/2/ HTTP/1.1" 200 1101
+INFO 2024-11-28 14:56:19,947 basehttp "GET /api/recommendations/ HTTP/1.1" 200 2
+INFO 2024-11-28 14:56:28,981 basehttp "GET /api/recommendations/ HTTP/1.1" 200 2
+INFO 2024-11-28 14:56:58,333 views Fetching movie recommendations for preferences: {'genres': ['35', '18', '10749'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 14:56:58,335 services Fetching movie recommendations for genres: ['35', '18', '10749'], language: en, release_year: 1980
+DEBUG 2024-11-28 14:56:58,337 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 14:56:58,544 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=35%2C18%2C10749&primary_release_year=1980 HTTP/11" 200 None
+INFO 2024-11-28 14:56:58,549 services Successfully fetched 20 movie recommendations.
+INFO 2024-11-28 14:56:58,941 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['35', '18', '10749'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 14:56:58,944 basehttp "POST /api/recommendations/ HTTP/1.1" 200 12512
+INFO 2024-11-28 14:58:16,272 views Fetching movie recommendations for preferences: {'genres': ['35', '18', '1'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 14:58:16,272 services Fetching movie recommendations for genres: ['35', '18', '1'], language: en, release_year: 1980
+DEBUG 2024-11-28 14:58:16,274 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 14:58:16,769 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=35%2C18%2C1&primary_release_year=1980 HTTP/11" 200 None
+INFO 2024-11-28 14:58:16,770 services Successfully fetched 0 movie recommendations.
+INFO 2024-11-28 14:58:16,964 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['35', '18', '1'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 14:58:16,966 basehttp "POST /api/recommendations/ HTTP/1.1" 200 57
+INFO 2024-11-28 14:58:24,478 views Cache hit for recommendations with preferences: {'genres': ['35', '18', '10749'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 14:58:24,480 basehttp "POST /api/recommendations/ HTTP/1.1" 200 12512
+INFO 2024-11-28 15:06:02,966 views Saved rating: {'id': 4, 'movie_id': 35, 'rating': 4.0, 'created_at': '2024-11-28T12:06:02.942453Z', 'user': 1}
+INFO 2024-11-28 15:06:02,966 views Successfully created rating: {'id': 4, 'movie_id': 35, 'rating': 4.0, 'created_at': '2024-11-28T12:06:02.942453Z', 'user': 1}
+INFO 2024-11-28 15:06:02,967 basehttp "POST /api/ratings/ HTTP/1.1" 201 87
+INFO 2024-11-28 15:06:53,139 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 15:06:57,000 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 15:07:05,650 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 15:07:07,061 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 15:07:15,623 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 15:07:16,962 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 15:13:51,112 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 15:13:52,949 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 15:13:56,438 autoreload C:\Product House\movieapp\movieapp\movies\views.py changed, reloading.
+INFO 2024-11-28 15:13:57,787 autoreload Watching for file changes with StatReloader
+INFO 2024-11-28 15:14:11,533 views Saved rating: {'id': 5, 'movie_id': 35, 'rating': 4.0, 'created_at': '2024-11-28T12:14:11.525666Z', 'user': 1}
+INFO 2024-11-28 15:14:11,533 views Successfully created rating: {'id': 5, 'movie_id': 35, 'rating': 4.0, 'created_at': '2024-11-28T12:14:11.525666Z', 'user': 1}
+INFO 2024-11-28 15:14:11,535 basehttp "POST /api/ratings/ HTTP/1.1" 201 87
+WARNING 2024-11-28 15:14:23,631 log Unauthorized: /api/ratings/
+WARNING 2024-11-28 15:14:23,633 basehttp "GET /api/ratings/ HTTP/1.1" 401 5043
+INFO 2024-11-28 15:14:30,195 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 11947
+INFO 2024-11-28 15:14:30,239 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,239 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,242 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,243 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,251 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,255 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 15:14:30,275 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,276 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,277 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,278 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,279 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,281 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,291 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,293 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,317 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,321 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,346 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,363 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:30,374 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:37,946 basehttp "GET /admin/movies/movierating/5/change/ HTTP/1.1" 200 13035
+INFO 2024-11-28 15:14:37,975 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:37,979 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:37,979 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:37,979 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 15:14:37,986 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:37,991 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:37,997 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:54,547 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 11947
+INFO 2024-11-28 15:14:54,568 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 15:14:56,300 basehttp "GET /admin/movies/ HTTP/1.1" 200 5348
+INFO 2024-11-28 15:14:56,320 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-11-28 15:14:58,138 basehttp "GET /admin/movies/genre/ HTTP/1.1" 200 14610
+INFO 2024-11-28 15:14:58,157 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 15:15:06,593 basehttp "GET /admin/movies/ HTTP/1.1" 200 5348
+INFO 2024-11-28 15:15:08,031 basehttp "GET /admin/movies/movierating/ HTTP/1.1" 200 11947
+INFO 2024-11-28 15:15:08,052 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-28 15:22:01,080 views Fetching movie recommendations for preferences: {'genres': ['35', '18'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 15:22:01,081 services Fetching movie recommendations for genres: ['35', '18'], language: en, release_year: 1980
+DEBUG 2024-11-28 15:22:01,086 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 15:22:01,680 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=35%2C18&primary_release_year=1980 HTTP/11" 200 None
+INFO 2024-11-28 15:22:01,695 services Successfully fetched 20 movie recommendations.
+INFO 2024-11-28 15:22:01,893 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['35', '18'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-28 15:22:01,895 basehttp "POST /api/recommendations/ HTTP/1.1" 200 10934
+INFO 2024-11-28 15:26:21,923 views Saved rating: {'id': 6, 'movie_id': 18, 'rating': 2.5, 'created_at': '2024-11-28T12:26:21.912028Z', 'user': 1}
+INFO 2024-11-28 15:26:21,924 views Successfully created rating: {'id': 6, 'movie_id': 18, 'rating': 2.5, 'created_at': '2024-11-28T12:26:21.912028Z', 'user': 1}
+INFO 2024-11-28 15:26:21,927 basehttp "POST /api/ratings/ HTTP/1.1" 201 87
+INFO 2024-11-28 15:29:26,232 basehttp "GET /api/movie/1 HTTP/1.1" 301 0
+INFO 2024-11-28 15:29:26,445 views Fetching details for movie ID: 1
+INFO 2024-11-28 15:29:26,445 services Fetching details for movie ID: 1
+DEBUG 2024-11-28 15:29:26,448 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 15:29:27,019 connectionpool https://api.themoviedb.org:443 "GET /3/movie/1?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 15:29:27,055 log Internal Server Error: /api/movie/1/
+ERROR 2024-11-28 15:29:27,058 basehttp "GET /api/movie/1/ HTTP/1.1" 500 66
+INFO 2024-11-28 15:29:33,336 basehttp "GET /api/movie/7 HTTP/1.1" 301 0
+INFO 2024-11-28 15:29:33,567 views Fetching details for movie ID: 7
+INFO 2024-11-28 15:29:33,568 services Fetching details for movie ID: 7
+DEBUG 2024-11-28 15:29:33,570 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 15:29:34,128 connectionpool https://api.themoviedb.org:443 "GET /3/movie/7?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 404 None
+ERROR 2024-11-28 15:29:34,140 log Internal Server Error: /api/movie/7/
+ERROR 2024-11-28 15:29:34,143 basehttp "GET /api/movie/7/ HTTP/1.1" 500 66
+INFO 2024-11-28 15:29:38,604 basehttp "GET /api/movie/18 HTTP/1.1" 301 0
+INFO 2024-11-28 15:29:38,818 views Fetching details for movie ID: 18
+INFO 2024-11-28 15:29:38,819 services Fetching details for movie ID: 18
+DEBUG 2024-11-28 15:29:38,821 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-28 15:29:39,265 connectionpool https://api.themoviedb.org:443 "GET /3/movie/18?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-28 15:29:39,266 services Successfully fetched details for movie ID: 18.
+INFO 2024-11-28 15:29:39,505 views Successfully fetched and cached details for movie ID: 18
+INFO 2024-11-28 15:29:39,507 basehttp "GET /api/movie/18/ HTTP/1.1" 200 1214
+INFO 2024-11-29 08:54:33,034 autoreload Watching for file changes with StatReloader
+INFO 2024-11-29 08:57:48,657 views Saved rating: {'id': 7, 'movie_id': 18, 'rating': 2.5, 'created_at': '2024-11-29T05:57:48.643795Z', 'user': 1}
+INFO 2024-11-29 08:57:48,659 views Successfully created rating: {'id': 7, 'movie_id': 18, 'rating': 2.5, 'created_at': '2024-11-29T05:57:48.643795Z', 'user': 1}
+INFO 2024-11-29 08:57:48,662 basehttp "POST /api/ratings/ HTTP/1.1" 201 87
+INFO 2024-11-29 08:59:15,858 views Saved rating: {'id': 8, 'movie_id': 18, 'rating': 2.5, 'created_at': '2024-11-29T05:59:15.833797Z', 'user': 1}
+INFO 2024-11-29 08:59:15,859 views Successfully created rating: {'id': 8, 'movie_id': 18, 'rating': 2.5, 'created_at': '2024-11-29T05:59:15.833797Z', 'user': 1}
+INFO 2024-11-29 08:59:15,861 basehttp "POST /api/ratings/ HTTP/1.1" 201 87
+INFO 2024-11-29 08:59:41,879 views Fetching movie recommendations for preferences: {'genres': ['35', '18'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-29 08:59:41,880 services Fetching movie recommendations for genres: ['35', '18'], language: en, release_year: 1980
+DEBUG 2024-11-29 08:59:41,902 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-29 08:59:42,691 connectionpool https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=a62c63177d84044d2e69105c87a41bca&language=en&with_genres=35%2C18&primary_release_year=1980 HTTP/11" 200 None
+INFO 2024-11-29 08:59:42,695 services Successfully fetched 20 movie recommendations.
+INFO 2024-11-29 08:59:43,087 views Successfully fetched and cached movie recommendations for preferences: {'genres': ['35', '18'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-29 08:59:43,090 basehttp "POST /api/recommendations/ HTTP/1.1" 200 11549
+INFO 2024-11-29 08:59:49,486 views Cache hit for recommendations with preferences: {'genres': ['35', '18'], 'release_year': 1980, 'language': 'en'}
+INFO 2024-11-29 08:59:49,489 basehttp "POST /api/recommendations/ HTTP/1.1" 200 11549
+INFO 2024-11-29 09:02:42,542 basehttp "GET /api/movie/18 HTTP/1.1" 301 0
+INFO 2024-11-29 09:02:42,795 views Fetching details for movie ID: 18
+INFO 2024-11-29 09:02:42,796 services Fetching details for movie ID: 18
+DEBUG 2024-11-29 09:02:42,799 connectionpool Starting new HTTPS connection (1): api.themoviedb.org:443
+DEBUG 2024-11-29 09:02:43,263 connectionpool https://api.themoviedb.org:443 "GET /3/movie/18?api_key=a62c63177d84044d2e69105c87a41bca HTTP/11" 200 None
+INFO 2024-11-29 09:02:43,264 services Successfully fetched details for movie ID: 18.
+INFO 2024-11-29 09:02:43,467 views Successfully fetched and cached details for movie ID: 18
+INFO 2024-11-29 09:02:43,470 basehttp "GET /api/movie/18/ HTTP/1.1" 200 1213
